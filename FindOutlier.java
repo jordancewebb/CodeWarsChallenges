@@ -1,4 +1,4 @@
-
+//This program takes in an array of integers which are either all even except for one or all odd except for one and finds the outlier.
 public class FindOutlier {
 		  static int decide(int [] integers){
 		    int count = 0;
